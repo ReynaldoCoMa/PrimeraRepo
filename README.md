@@ -1,3 +1,3 @@
 # PrimeraRepo
 Ejercicio de práctica
-![Alt text](https://conceptodefinicion.de/tecnologia/)
+Format: ![Alt Text](https://es.wikipedia.org/wiki/Agujero_negro/)
